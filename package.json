@@ -1,0 +1,17 @@
+{
+  "name": "ztm-bot-js",
+  "version": "1.0.0",
+  "description": "A discord Trivia bot writtin in JS, focused on programming",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "W.D. Snoeijer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
